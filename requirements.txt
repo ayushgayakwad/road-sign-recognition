@@ -1,0 +1,5 @@
+opencv-python
+opencv-python-headless
+yolov5
+torch
+torchvision
