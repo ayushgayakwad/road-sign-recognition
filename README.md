@@ -44,6 +44,9 @@ Ensure you have Python installed on your system. The dependencies for the projec
    ```
 3. The system will start detecting and classifying road signs in real-time. Press **`q`** to quit the application.
 
+## Model Training Results
+![Model Training Results](https://github.com/ayushgayakwad/road-sign-recognition/blob/main/model/results.png)
+
 ## Acknowledgements
 - [YOLOv5](https://github.com/ultralytics/yolov5) for object detection.
 - [GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign) for providing the benchmark dataset for training.
