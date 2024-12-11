@@ -8,7 +8,7 @@ This system can be used to improve road safety and assist autonomous driving by 
 ## Project Structure
 The project folder `road-sign-recognition` includes the following subdirectories:
 
-1. **`model`**: Contains the trained YOLOv5 model weights (`best.pt`).
+1. **`model`**: Contains the trained YOLOv5 model weights (`best.pt` and `last.pt`).
 2. **`src`**: Contains the source code for running the project.
 
 ## Features
