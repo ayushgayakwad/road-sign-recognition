@@ -47,6 +47,14 @@ Ensure you have Python installed on your system. The dependencies for the projec
 ## Model Training Results
 ![Model Training Results](https://github.com/ayushgayakwad/road-sign-recognition/blob/main/model/results.png)
 
+## Research Publication
+This project is published as a research paper in the *Journal of Emerging Technologies and Innovative Research (JETIR)*: 
+
+**Title:** Road Sign Recognition using YOLO & GTSRB  
+**Journal:** JETIR (Volume 12, Issue 5, May 2025)  
+**Published Paper ID:** JETIR2505760  
+**Published Paper Link:** [JETIR2505760 - Road Sign Recognition using YOLO & GTSRB](https://www.jetir.org/view?paper=JETIR2505760)
+
 ## Acknowledgements
 - [YOLOv5](https://github.com/ultralytics/yolov5) for object detection.
 - [GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign) for providing the benchmark dataset for training.
